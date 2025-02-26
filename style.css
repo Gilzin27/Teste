@@ -37,7 +37,7 @@ header > nav > a{
 a:hover{
     border-radius: 6px;
     text-decoration: underline;
-    background-color: #5beb9c41;
+    background-color: #green;
 }
 a:visited{
     color: white;
