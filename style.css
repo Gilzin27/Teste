@@ -103,7 +103,6 @@ img{
     height: 0;
     overflow: hidden;
     max-width: 87%;
-    background-color: #186106;
 }
 div > iframe {
     position: absolute;
